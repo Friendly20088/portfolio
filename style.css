@@ -1,0 +1,85 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+body{
+    background-color: #8abfa6;
+    margin: 0;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    font-size: 10vmin;
+    color: #262523;
+    font-family: "Inter";
+}
+h3{
+    font-size: 4vmin;
+    color: #262523;
+    font-family: "Inter";
+    opacity: 0.9;
+}
+h5{
+    font-size: 2vmin;
+    color: #262523;
+    font-family: "Inter";
+    opacity: 0.9;
+}
+.uplay{
+    position: relative;
+    z-index: 90;
+}
+.info1{
+    background-color: #8abfa6;
+    height: 120vh;
+}
+.info2{
+    background-color: #bfd9c3;
+    height: 110vh;
+}
+.info3{
+    background-color: #8abfa6;
+    height: 45vh;
+}
+.project{
+    background-color: #8abfa6;
+    padding: 5vmin 10vmin;
+    border-radius: 4vmin;
+    img{
+        border-radius: 2vmin;
+    }
+}
+.blog{
+    background-color: #bfd9c3;
+    padding: 5vmin 10vmin;
+    border-radius: 4vmin;
+    img{
+        border-radius: 2vmin;
+    }
+}
+.menu {
+    padding: 1vmin 5vmin;
+    display: flex;
+    height: 10vmin;
+    align-items: center;
+    margin: 0vmin 20vmin;
+    background-color: #bfd9c3;
+    border-radius: 5vmin;
+}
+.link {
+    font-family: "Inter";
+    text-decoration: none;
+    font-size: 4vmin;
+    color: #262523;
+    margin: 0 25px;
+}
+.logo {
+    font-family: "Inter";
+    text-decoration: none;
+    font-size: 4vmin;
+    font-weight: 600;
+    color: #262523;
+    margin: 0 25px;
+}
